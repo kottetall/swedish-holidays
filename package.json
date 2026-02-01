@@ -14,7 +14,16 @@
     "type": "git",
     "url": "git+https://github.com/kottetall/swedish-holidays.git"
   },
-  "keywords": [],
+  "keywords": [
+    "swedish-holidays",
+    "holidays",
+    "public-holidays",
+    "sweden",
+    "svenska-helgdagar",
+    "svensk-kalender",
+    "helgdagar",
+    "sverige"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
