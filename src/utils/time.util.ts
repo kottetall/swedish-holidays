@@ -10,7 +10,7 @@ import { DatePosition } from "../types/holidays.type";
  * @returns The date as "yyyy-mm-dd"
  */
 export function formatMillisToDateString(timeInMs: number) {
-  return new Date(timeInMs).toLocaleString().split(" ")[0];
+  return new Date(timeInMs).toLocaleString("sv-SE").split(" ")[0];
 }
 
 /**
